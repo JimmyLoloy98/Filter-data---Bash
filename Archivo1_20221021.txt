@@ -1,0 +1,170 @@
+DATO 01
+Nombre: Juan
+Apellido: Quispe
+Sexo: Masculino
+Fecha de Nacimiento: 29/04/2019
+Correo: Juan@gmail.com
+Celular: 930841018
+Dirreccion: Piura
+
+DATO 02
+Nombre: Pedro
+Apellido: Flores
+Sexo: Masculino
+Fecha de Nacimiento: 8/06/2018
+Correo: Pedro@gmail.com
+Celular: 958537766
+Dirreccion: Lima
+
+DATO 03
+Nombre: Jose
+Apellido: Sanchez
+Sexo: Masculino
+Fecha de Nacimiento: 9/05/2018
+Correo: Jose@gmail.com
+Celular: 950470490
+Dirreccion: Tingo
+
+DATO 04
+Nombre: Pablo
+Apellido: Garcia
+Sexo: Masculino
+Fecha de Nacimiento: 24/04/2019
+Correo: Pablo@gmail.com
+Celular: 991034042
+Dirreccion: Trujillo
+
+DATO 05
+Nombre: Luis
+Apellido: Rodriguez
+Sexo: Masculino
+Fecha de Nacimiento: 8/01/2020
+Correo: Luis@gmail.com
+Celular: 924494869
+Dirreccion: Lamas
+
+DATO 06
+Nombre: Sara
+Apellido: Rojas
+Sexo: Femenino
+Fecha de Nacimiento: 17/08/2018
+Correo: Sara@gmail.com
+Celular: 965919128
+Dirreccion: Tocache
+
+DATO 07
+Nombre: Mari
+Apellido: Huaman
+Sexo: Femenino
+Fecha de Nacimiento: 6/11/2019
+Correo: Mari@gmail.com
+Celular: 900030194
+Dirreccion: Chincha
+
+DATO 08
+Nombre: Joaquin
+Apellido: Mamani
+Sexo: Masculino
+Fecha de Nacimiento: 8/04/2018
+Correo: Joaquin@gmail.com
+Celular: 918019537
+Dirreccion: Cajamarca
+
+DATO 09
+Nombre: María
+Apellido: Vasquez
+Sexo: Femenino
+Fecha de Nacimiento: 2/10/2020
+Correo: María@gmail.com
+Celular: 917055018
+Dirreccion: Jauja
+
+DATO 10
+Nombre: Mario
+Apellido: Ramos
+Sexo: Masculino
+Fecha de Nacimiento: 20/10/2021
+Correo: Mario@gmail.com
+Celular: 945992030
+Dirreccion: Acolla
+
+DATO 11
+Nombre: Perla
+Apellido: Lopez
+Sexo: Femenino
+Fecha de Nacimiento: 16/08/2020
+Correo: Perla@gmail.com
+Celular: 927271047
+Dirreccion: Piura
+
+DATO 12
+Nombre: Pilar
+Apellido: Quispe
+Sexo: Femenino
+Fecha de Nacimiento: 20/05/2018
+Correo: Pilar@gmail.com
+Celular: 958779892
+Dirreccion: Lima
+
+DATO 13
+Nombre: David
+Apellido: Flores
+Sexo: Masculino
+Fecha de Nacimiento: 20/11/2020
+Correo: David@gmail.com
+Celular: 915953628
+Dirreccion: Lima
+
+DATO 14
+Nombre: Piero
+Apellido: Sanchez
+Sexo: Masculino
+Fecha de Nacimiento: 20/09/2019
+Correo: Piero@gmail.com
+Celular: 930077515
+Dirreccion: Tingo
+
+DATO 15
+Nombre: Bill
+Apellido: Garcia
+Sexo: Masculino
+Fecha de Nacimiento: 20/09/2019
+Correo: Bill@gmail.com
+Celular: 964820022
+Dirreccion: Tarapoto
+
+DATO 16
+Nombre: Ángel
+Apellido: Rodriguez
+Sexo: Masculino
+Fecha de Nacimiento: 10/04/2018
+Correo: Ángel@gmail.com
+Celular: 962425457
+Dirreccion: Juanjui
+
+DATO 17
+Nombre: Luz
+Apellido: Rojas
+Sexo: Femenino
+Fecha de Nacimiento: 8/03/2020
+Correo: Luz@gmail.com
+Celular: 958297428
+Dirreccion: Uchiza
+
+DATO 18
+Nombre: Nicol
+Apellido: Huamao
+Sexo: Femenino
+Fecha de Nacimiento: 26/09/2018
+Correo: Nicol@gmail.com
+Celular: 906097101
+Dirreccion: Puno
+
+DATO 19
+Nombre: Antonio
+Apellido: Mamani
+Sexo: Masculino
+Fecha de Nacimiento: 19/06/2020
+Correo: Antonio@gmail.com
+Celular: 951092426
+Dirreccion: Oxapampa
